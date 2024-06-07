@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny and can make you laugh too**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
