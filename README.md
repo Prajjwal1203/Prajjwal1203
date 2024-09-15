@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal1203&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal1203" /> </p>
 
-- 🔭 I’m currently working on **MERN stack Projects**
-
-- 🌱 I’m currently learning **Python + Django framework and Jquery +AJAX**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 📝 I regularly write articles on [https://medium.com/@pmprajjwal12](https://medium.com/@pmprajjwal12)
 
-- 💬 Ask me about **React.js, Javascript**
+- 💬 Ask me about **React.js, Javascript, Next.js, Typescript**
 
 - 📫 How to reach me **pmprajjwal12@gmail.com**
 
