@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 📝 I regularly write articles on [https://medium.com/@pmprajjwal12](https://medium.com/@pmprajjwal12)
-
 - 💬 Ask me about **React.js, Javascript, Next.js, Typescript**
 
 - 📫 How to reach me **pmprajjwal12@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and can make you laugh too**
+
 
 
 <!-- BLOG-POST-LIST:START -->
