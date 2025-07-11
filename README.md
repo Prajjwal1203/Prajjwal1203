@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal1203&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal1203" /> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently learning on **Software Development**
 
 - 💬 Ask me about **React.js, Javascript, Next.js, Typescript**
 
@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/prajjwal-mishra-434a37218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajjwal-mishra-434a37218" height="30" width="40" /></a>
 <a href="https://instagram.com/@prajjwal_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prajjwal_._" height="30" width="40" /></a>
-<a href="https://medium.com/@pmprajjwal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pmprajjwal12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
