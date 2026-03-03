@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal1203&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal1203" /> </p>
 
-- 🔭 I’m currently learning on **Software Development**
+- 🔭 I’m currently learning  **Backend + Devops **
 
 - 💬 Ask me about **React.js, Javascript, Next.js, Typescript**
 
-- 📫 How to reach me **pmprajjwal12@gmail.com**
+- 📫 How to reach me **prajjjwal7@gmail.com**
 
 
 
